@@ -10,7 +10,7 @@ var shell = require('gulp-shell');
 
 var webpack = require('webpack');
 var WebpackDevServer = require('webpack-dev-server');
-// webpack config to build and serve examples
+// webpack config to build and serve examples  红牛
 var exampleConfig = require('./webpack.example.config');
 // webpack config to build umd bundle
 var umdConfig = require('./webpack.umd.config');
