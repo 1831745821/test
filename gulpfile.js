@@ -12,7 +12,7 @@ var webpack = require('webpack');
 var WebpackDevServer = require('webpack-dev-server');
 // webpack config to build and serve examples  红牛
 var exampleConfig = require('./webpack.example.config');
-// webpack config to build umd bundle
+// webpack config to build umd bundle 日语ffff
 var umdConfig = require('./webpack.umd.config');
 
 var watching = false;
