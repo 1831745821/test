@@ -25,7 +25,7 @@ gulp.task('clean', function() {
   return del([
     './dist/*',
     './lib/**'
-  ]);
+  ]);呃呃呃呃呃呃
 });
 
 //------------
